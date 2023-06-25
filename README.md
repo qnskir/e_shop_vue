@@ -1,4 +1,4 @@
-# v2.x-test
+# eshop.vue
 
 ## Project setup
 ```
